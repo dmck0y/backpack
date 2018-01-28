@@ -420,6 +420,21 @@ negotiator@0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.1.tgz#2b327184e8992101177b28563fb5e7102acd0ca9"
 
+nerv-shared@1.2.6:
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/nerv-shared/-/nerv-shared-1.2.6.tgz#fbf976e4b2593236f2e4985d2fd3fc82c18defd4"
+
+nerv-utils@1.2.6:
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/nerv-utils/-/nerv-utils-1.2.6.tgz#c6c2a7b33d0aa37ebc34c2879880c6c03f064c13"
+
+nervjs@^1.2.8:
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/nervjs/-/nervjs-1.2.8.tgz#19b766c17cfb29030857cede9a1286e95ca57fd3"
+  dependencies:
+    nerv-shared "1.2.6"
+    nerv-utils "1.2.6"
+
 object-assign@^4.0.1, object-assign@^4.1.0:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/object-assign/-/object-assign-4.1.1.tgz#2109adc7965887cfc05cbbd442cac8bfbb360863"
